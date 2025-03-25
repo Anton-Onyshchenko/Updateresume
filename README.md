@@ -11,4 +11,7 @@
 
 В кінці сторінки додати iframe, який буде виводити контент резюме, створеного на другому уроці.
 Додати вставку відео з YouTube.
+
+
+
 ![image](https://github.com/user-attachments/assets/2399cebb-58b0-4cbc-a36e-d1d26c1256d9)
